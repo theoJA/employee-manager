@@ -4,6 +4,8 @@
 
 A basic employee management app. Allows the user to sign up, log in and create multiple employees. Created employees will be displayed and when clicked will be given the option to edit, text or delete employee. Supports multiple users and will only display the employees each user created. 
 
+All backend processes were performed through Firebase.
+
 To sign up, simply enter an email and password and you will be registered and signed in automatically. If there is an authentication error it might be caused by one of the following:
 
 - The email entered already exists in the system
